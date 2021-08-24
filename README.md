@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wilmer132
 - 👀 I’m interested in game development and web development as well.
 - 🌱 I’m an Computer Science undergraduate student at Stanford University.
-- 💞️ I’m looking to collaborate on projects relating to game development and web development also.
+- 💞️ I’m looking to collaborate on projects relating to web development (full-stack/front-end/back-end), mobile development, game development and education.
 - 📫 How to reach me: email (zunalargowilmer@gmail.com).
 
 <!---
